@@ -13,10 +13,10 @@ Android Studio(Min. required Artic Fox)
 2.Then type the Application name as SMSIntent and click Next.
 3.Select the Minimum SDK below and click Next.
 4.Then select the Empty Activity and click Next. Finally, click Finish.
-5:Design layout in activity_main.xml.
-6:Create anim folder in that write coding for animation in .xml
-7:Perform animation function using AnimationUtil class in MainActivity.java
-8:Save and run the application.
+5.Design layout in activity_main.xml.
+6.Create anim folder in that write coding for animation in .xml
+7.Perform animation function using AnimationUtil class in MainActivity.java
+8.Save and run the application.
 ```
 ## Program:
 
