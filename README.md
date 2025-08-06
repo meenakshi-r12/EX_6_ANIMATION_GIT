@@ -8,13 +8,10 @@ To create and design an android application that perform different animations fo
 EQUIPMENTS REQUIRED: Android Studio(Min. required Artic Fox)
 ## ALGORITHM:
 Step 1:
-
 Open Android Studio and then click on File -> New -> New project.
 Step 2:
-
 Then type the Application name as SMSIntent and click Next.
 Step 3:
-
 Select the Minimum SDK below and click Next.
 Step 4:
 
